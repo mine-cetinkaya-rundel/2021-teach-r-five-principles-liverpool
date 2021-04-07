@@ -1,6 +1,6 @@
 ---
 title: "teaching R:"
-subtitle: "five principles <br> `r emo::ji('link')` [bit.ly/design-ds-eku-web](http://bit.ly/design-ds-eku-web)"
+subtitle: "five principles <br> `r emo::ji('link')` [bit.ly/teach-r-5](http://bit.ly/teach-r-5)"
 author: "<br><br> dr. mine çetinkaya-rundel"
 date: "7 april 2021"
 output:
@@ -1426,7 +1426,7 @@ class: middle, center, inverse
 .large[.hand[thank you!]]
 
 .largee[
-`r emo::ji('link')` [bit.ly/design-ds-eku-web](http://bit.ly/design-ds-eku-web)
+`r emo::ji('link')` [bit.ly/teach-r-5](http://bit.ly/teach-r-5)
 ]
 
 .midi[`r emo::ji('bird')` [@minebocek](https://twitter.com/minebocek)]
