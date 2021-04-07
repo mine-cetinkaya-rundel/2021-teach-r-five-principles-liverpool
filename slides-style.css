@@ -89,6 +89,20 @@ h1, h2, h3 {
  color: var(--peach-quartz);
 }
 
+.large-blue-number {
+ font-family: 'Montserrat', sans-serif;
+ font-size: 300%;
+ font-weight: bold;
+ color: var(--provence);
+}
+
+.pink-number {
+ font-family: 'Montserrat', sans-serif;
+ font-size: 170%;
+ font-weight: bold;
+ color: var(--peach-quartz);
+}
+
 /* Handwriting */
 .hand{
   font-family: 'Gochi Hand', cursive;

@@ -72,8 +72,7 @@ background-size: cover
 >### Today we’re going to 
 >### make a pineapple and 
 >### coconut sandwich 
->### sponge cake with 
->### these ingredients
+>### sponge cake 
 
 ---
 
@@ -1190,6 +1189,16 @@ Do it all in R!
 - Git automation with **ghclass**
 - Interactive tutorials with **learnr**
 - ...
+
+---
+
+## .large-blue-number[5] design principles
+
+.pink-number[1] cherish day one  
+.pink-number[2] start with cake  
+.pink-number[3] skip baby steps  
+.pink-number[4] hide the veggies  
+.pink-number[5] leverage the ecosystem  
 
 ---
 
